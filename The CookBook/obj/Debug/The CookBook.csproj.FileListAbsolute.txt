@@ -1,0 +1,7 @@
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\bin\Debug\The CookBook.exe.config
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\bin\Debug\The CookBook.exe
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\bin\Debug\The CookBook.pdb
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\obj\Debug\The CookBook.csprojAssemblyReference.cache
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\obj\Debug\The CookBook.csproj.CoreCompileInputs.cache
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\obj\Debug\The CookBook.exe
+C:\Users\ZAKARIA\source\repos\The CookBook\The CookBook\obj\Debug\The CookBook.pdb

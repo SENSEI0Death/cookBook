@@ -1,0 +1,6 @@
+-----------------
+name:caesar salad
+category:Salad
+ingredient:{"cheese.10kg", "lettuce.5kg", "oil.10L", "minced garlic.6L", "french baguette.5kg", "cloves.2kg"}
+description: nice salad for rich people 
+-----------------
