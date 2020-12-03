@@ -1,6 +1,2 @@
------------------
-name:caesar salad
-category:Salad
-ingredient:{"cheese.10kg", "lettuce.5kg", "oil.10L", "minced garlic.6L", "french baguette.5kg", "cloves.2kg"}
-description: nice salad for rich people 
------------------
+salad@Salad$cheese.10kg,lettuce.5kg,oil.10L,minced garlic.6L,french baguette.5kg,cloves.2kg#nice salad for rich people
+soup@soup$carrots.5kg,tomatoes.5kg,potatoes.5kg,green beans.5kg,pepper.10g,salt.2g,corn.2 pieces#nice nice nice
